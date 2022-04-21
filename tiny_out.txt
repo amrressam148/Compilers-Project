@@ -1,0 +1,19 @@
+(, SpecialSymbol
+x, Identifier
+>, not equality comparison
+5, Number
+||, OR
+y, Identifier
+=, SpecialSymbol
+4, Number
+&&, and
+(, SpecialSymbol
+zzzz, Identifier
+!, SpecialSymbol
+=, SpecialSymbol
+yyyyy, Identifier
+(, SpecialSymbol
+(, SpecialSymbol
+B, Identifier
+&&, and
+5, Number
